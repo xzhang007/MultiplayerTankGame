@@ -1,1 +1,0 @@
-https://github.com/xzhang007/TankWar/blob/master/Readme/Readme.pdf
